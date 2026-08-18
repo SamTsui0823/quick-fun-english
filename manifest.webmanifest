@@ -1,0 +1,19 @@
+{
+  "name": "快趣學英文",
+  "short_name": "快趣學英文",
+  "description": "長者友善英文學習 App",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#fffaf0",
+  "lang": "zh-HK",
+  "icons": [
+    {
+      "src": "./poodle-header.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
